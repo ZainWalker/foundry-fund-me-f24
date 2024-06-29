@@ -14,3 +14,20 @@
 2024-06-29 10:36:47.136 [info] [127.0.0.1][a74d171e][ManagementConnection] New connection established.
 2024-06-29 10:36:47.473 [info] [127.0.0.1][64235498][ExtensionHostConnection] New connection established.
 2024-06-29 10:36:47.475 [info] [127.0.0.1][64235498][ExtensionHostConnection] <11539> Launched Extension Host Process.
+2024-06-29 10:50:23.957 [info] Getting Manifest... nomicfoundation.hardhat-solidity
+2024-06-29 10:50:24.070 [info] Installing extension: nomicfoundation.hardhat-solidity file:///home/fox/.vscode-server/extensions/extensions.json
+2024-06-29 10:50:26.365 [info] Extension signature verification result for nomicfoundation.hardhat-solidity: Success. Executed: true. Duration: 1126ms.
+2024-06-29 10:50:26.820 [info] Extracted extension to file:///home/fox/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.8.4: nomicfoundation.hardhat-solidity
+2024-06-29 10:50:26.825 [info] Renamed to /home/fox/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.8.4
+2024-06-29 10:50:26.859 [info] Extension installed successfully: nomicfoundation.hardhat-solidity file:///home/fox/.vscode-server/extensions/extensions.json
+2024-06-29 10:50:44.294 [info] Getting Manifest... tamasfe.even-better-toml
+2024-06-29 10:50:44.400 [info] Installing extension: tamasfe.even-better-toml file:///home/fox/.vscode-server/extensions/extensions.json
+2024-06-29 10:50:45.653 [info] Extension signature verification result for tamasfe.even-better-toml: Success. Executed: true. Duration: 689ms.
+2024-06-29 10:50:45.760 [info] Extracted extension to file:///home/fox/.vscode-server/extensions/tamasfe.even-better-toml-0.19.2: tamasfe.even-better-toml
+2024-06-29 10:50:45.764 [info] Renamed to /home/fox/.vscode-server/extensions/tamasfe.even-better-toml-0.19.2
+2024-06-29 10:50:45.804 [info] Extension installed successfully: tamasfe.even-better-toml file:///home/fox/.vscode-server/extensions/extensions.json
+2024-06-29 10:51:24.704 [info] [127.0.0.1][a6d2e919][ManagementConnection] New connection established.
+2024-06-29 10:51:24.874 [info] [127.0.0.1][f0a2437d][ExtensionHostConnection] New connection established.
+2024-06-29 10:51:24.882 [info] [127.0.0.1][f0a2437d][ExtensionHostConnection] <19601> Launched Extension Host Process.
+2024-06-29 10:51:26.593 [info] [127.0.0.1][a74d171e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-06-29 10:51:26.645 [info] [127.0.0.1][64235498][ExtensionHostConnection] <11539> Extension Host Process exited with code: 0, signal: null.

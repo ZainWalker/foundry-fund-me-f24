@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Fox\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe",
+    "code-runner.runInTerminal": true,
+    "solidity.telemetry": true
+}
